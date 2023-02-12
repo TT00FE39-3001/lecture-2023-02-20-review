@@ -8,7 +8,7 @@
 
 ## Review: Lectures 1-4
 
-## Classification of Algorithm techniques
+### Classification of Algorithm techniques
 
 - Brute Force
   - Linear search
@@ -23,7 +23,7 @@
   - Merge Sort
   <!-- Transform-and-Conquer, Greedy Technique, Dynamic Programming -->
 
-## Data Structures & ADT
+### Data Structures & ADT
 
 - Data Structures vs Abstract Data Types(ADT)
 - Arrays
@@ -33,14 +33,14 @@
   - Stacks
   - Hash Tables
 
-## Analysis of Algorithm Efficiency
+### Analysis of Algorithm Efficiency
 
 - Big O Complexity
 - Average case vs worst case
 - Space vs Time
 <!-- Little-O, Theta, Little Omega, Big Omega -->
 
-## Misc
+### Misc
 
 - FIFO vs LIFO
 - Recursion vs Iteration
