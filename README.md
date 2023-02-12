@@ -2,7 +2,7 @@
 
 ## Announcement
 
-- 20/2/23 Review:
+- Optional Session: 20/2/23 **Review**
 - Lecture 5: 27/2/23
 - Career coaching 10.3.2023: More info in OMA
 
