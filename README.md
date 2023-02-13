@@ -20,24 +20,19 @@
   - `pow()`
   - Quick Sort
   - Merge Sort
-  <!-- Transform-and-Conquer, Greedy Technique, Dynamic Programming -->
 
 ### Data Structures & ADT
 
-- Data Structures vs Abstract Data Types(ADT)
-- Arrays
-  - Queues
-  - Stacks
-- Linked Lists
-  - Stacks
-  - Hash Tables
+- Arrays, Linked Lists
+- Queues
+- Stacks
+- Hash Tables
 
 ### Analysis of Algorithm Efficiency
 
 - Big O Complexity
 - Average case vs worst case
 - Space vs Time
-<!-- Little-O, Theta, Little Omega, Big Omega -->
 
 ### Misc
 
