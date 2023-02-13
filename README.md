@@ -2,7 +2,7 @@
 
 ## Announcements
 
-- 2023-02-20: Review: Optional Session
+- 2023-02-20: Review: **Optional** Session
 - 2023-02-27: Lecture 5
 
 ## Review: Lectures 1-4
